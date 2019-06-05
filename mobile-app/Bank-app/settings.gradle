@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 include ':app'
+=======
+include ':app', ':greendao_gen'
+>>>>>>> 2427eb0a2b111868120244383f3b8971cb861d3d

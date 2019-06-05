@@ -1,0 +1,26 @@
+#
+# generated on 2019/06/03 04:02:29
+#
+# --table-start--
+dataClass=com.example.bank_app.dataAccess.models.User
+tableName=user
+# --table-fields-start--
+# --field-start--
+fieldName=id
+id=true
+# --field-end--
+# --field-start--
+fieldName=name
+canBeNull=false
+indexName=user_name_idx
+# --field-end--
+# --field-start--
+fieldName=password
+canBeNull=false
+# --field-end--
+# --field-start--
+fieldName=numberAccount
+# --field-end--
+# --table-fields-end--
+# --table-end--
+#################################
