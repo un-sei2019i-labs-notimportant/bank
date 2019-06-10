@@ -1,6 +1,14 @@
 <resources>
-    <string name="app_name">Bank-app</string>
+    <string name="app_name">Bank app</string>
     <string name="et_username_hint">Username</string>
     <string name="et_password_hint">Password</string>
     <string name="btn_login">Log in</string>
+    <string name="btn_goto_SendMoneyActivity"><b>Send Money</b></string>
+    <string name="et_sender_hint">Sender\'s account</string>
+    <string name="et_receiver_hint">Receiver\'s account</string>
+    <string name="et_amount_hint">Amount</string>
+    <string name="btn_sendMoney">Send</string>
+    <string name="tv_account"><b>Current account</b></string>
+    <string name="tv_currentAccount">null</string>
+    <string name="btn_logout">Log Out</string>
 </resources>
